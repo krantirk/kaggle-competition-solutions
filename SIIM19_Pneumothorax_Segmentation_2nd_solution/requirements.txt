@@ -35,7 +35,7 @@ python-dateutil==2.8.0
 pytorchcv==0.0.48
 pytz==2019.1
 PyWavelets==1.0.3
-PyYAML==5.1.1
+PyYAML==5.4
 pyzmq==18.0.2
 requests==2.22.0
 scikit-image==0.15.0
